@@ -1,0 +1,31 @@
+{
+    "name": "salif-theme",
+    "version": "1.0",
+    "description": "Salif Theme",
+    "author": "Salif Mehmed <salif@programmer.net>",
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_ntp_background": "images\/theme_ntp_background.jpeg"
+        },
+        "colors": {
+            "frame": [100, 100, 100],
+            "frame_inactive": [100, 100, 100],
+            "toolbar": [69, 69, 69],
+            "tab_text": [255, 255, 255],
+            "tab_background_text": [255, 255, 255],
+            "bookmark_text": [255, 255, 255],
+            "ntp_background": [255, 255, 255],
+            "ntp_text": [255, 255, 255],
+            "ntp_link": [6, 55, 116],
+            "button_background": [255, 255, 255, 0]
+        },
+        "tints": {
+            "buttons": [0.0, 0.5, 1.0]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
