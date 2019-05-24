@@ -6,7 +6,7 @@
     "manifest_version": 2,
     "theme": {
         "images": {
-            "theme_ntp_background": "images\/theme_ntp_background.jpeg"
+            "theme_ntp_background": "images\/bg.jpg"
         },
         "colors": {
             "frame": [100, 100, 100],
