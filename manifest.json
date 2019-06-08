@@ -6,7 +6,7 @@
     "manifest_version": 2,
     "theme": {
         "images": {
-            "theme_ntp_background": "images\/bg.jpg"
+            "theme_ntp_background": "pikachu.jpg"
         },
         "colors": {
             "frame": [100, 100, 100],
