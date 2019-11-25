@@ -2,7 +2,7 @@
     "name": "salif-theme",
     "version": "1.0",
     "description": "Salif Theme",
-    "author": "Salif Mehmed <salif@programmer.net>",
+    "author": "Salif Mehmed <salifm@salifm.com>",
     "manifest_version": 2,
     "theme": {
         "images": {
